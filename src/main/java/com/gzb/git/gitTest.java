@@ -12,6 +12,7 @@ public class gitTest {
         System.out.println(" git version 3");
         System.out.println("    git version 4");
         System.out.println(" push test");
+        System.out.println(" pull   test");
     }
 
 }
